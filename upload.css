@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(141, 96, 0);
+}
+
+
+
+
+.container{
+    width: 75%;
+    margin: auto;
+
+}
+header{
+text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+
+nav{
+    text-align: center;
+    background-color: rgb(255, 183, 0);
+}
+
+
+
+main{
+
+    text-align: center;
+    background-color: rgb(246, 251, 255);
+}
+
+table{
+    margin: 0 auto;
+}
+
+
+section{
+text-align: center;
+    background-color: rgb(255, 183, 0);
+}
+
+
+footer{
+text-align: center;
+    background-color: oldlace;
+}
